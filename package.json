@@ -1,0 +1,24 @@
+{
+  "name": "local-cms",
+  "version": "1.0.0",
+  "description": "03/08/2025 description will be update soon...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traragonm/local-post-cms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traragonm/local-post-cms/issues"
+  },
+  "homepage": "https://github.com/traragonm/local-post-cms#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}

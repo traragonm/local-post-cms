@@ -1,2 +1,3 @@
 # local-post-cms
 03/08/2025 description will be update soon... 
+04/08/2025 init base of node js project
